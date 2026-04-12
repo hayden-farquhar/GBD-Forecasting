@@ -1,0 +1,6 @@
+model,mean_bias,direction,t_stat,p_value,significant
+ARIMA,20.95,Under,5.509,0.0,True
+XGBoost,37.74,Under,7.039,0.0,True
+Prophet,7.53,Under,1.427,0.1544,False
+TFT,14.12,Under,3.667,0.0003,True
+Ensemble,19.95,Under,5.777,0.0,True

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (raw GBD files — too large / IHME terms of use)
+data/gbd/*.csv
+data/covariates/world_bank_covariates.csv
+
+# Model checkpoints
+outputs/checkpoints/
+*.ckpt
+*.pt
+
+# Logs
+lightning_logs/

@@ -1,0 +1,11 @@
+Model,Type,Mean MAE,Median MAE,MAPE (%),Skill
+PatchTST,Deep Learning,36.7,19.63,4.22,0.144
+Chronos,Foundation Model,38.81,22.35,4.85,0.095
+ETS,Statistical,39.64,21.35,4.74,0.075
+ARIMA,Statistical,42.81,20.62,5.03,0.001
+Naive,Baseline,42.86,28.72,5.34,0.0
+N-HiTS,Deep Learning,43.18,25.26,4.88,-0.007
+N-BEATS,Deep Learning,43.44,24.4,5.0,-0.014
+TFT,Deep Learning,50.37,31.31,6.43,-0.175
+XGBoost,ML,53.35,25.34,5.63,-0.245
+Prophet,Statistical,60.65,30.63,6.87,-0.415

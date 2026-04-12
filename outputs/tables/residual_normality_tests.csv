@@ -1,0 +1,6 @@
+model,shapiro_p,jarque_bera_p,normal
+ARIMA,0.0,0.0,False
+XGBoost,0.0,0.0,False
+Prophet,0.0,0.0,False
+TFT,0.0,0.0,False
+Ensemble,0.0,0.0,False

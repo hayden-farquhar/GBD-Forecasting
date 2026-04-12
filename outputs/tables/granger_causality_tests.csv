@@ -1,0 +1,7 @@
+covariate,series_tested,significant,pct_significant,median_p
+urbanisation_pct,90,53,58.9,0.0326
+population,90,53,58.9,0.0287
+life_expectancy,90,44,48.9,0.055
+health_expenditure_pc,90,37,41.1,0.091
+physicians_per_1000,90,36,40.0,0.0811
+gdp_per_capita_ppp,90,32,35.6,0.0877

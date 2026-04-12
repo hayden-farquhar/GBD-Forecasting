@@ -1,0 +1,503 @@
+combination,n_models,mean_mae,median_mae
+ETS + Prophet + XGBoost + TFT + PatchTST,5,33.01,15.66
+ETS + Prophet + TFT + PatchTST,4,33.15,15.97
+ETS + Prophet + XGBoost + TFT + NHITS + PatchTST,6,33.17,14.46
+ETS + Prophet + XGBoost + TFT + PatchTST + Chronos,6,33.17,14.52
+ARIMA + Prophet + XGBoost + TFT + PatchTST,5,33.18,15.36
+ETS + Prophet + XGBoost + TFT + NHITS + PatchTST + Chronos,7,33.23,13.97
+ARIMA + Prophet + XGBoost + TFT + PatchTST + Chronos,6,33.24,14.18
+ARIMA + Prophet + XGBoost + TFT + NHITS + PatchTST,6,33.26,14.41
+ETS + Prophet + XGBoost + TFT + NBEATS + PatchTST,6,33.27,14.08
+ARIMA + Prophet + XGBoost + TFT + NHITS + PatchTST + Chronos,7,33.27,14.04
+Prophet + XGBoost + TFT + PatchTST,4,33.28,16.57
+Prophet + XGBoost + TFT + NHITS + PatchTST + Chronos,6,33.29,15.08
+Prophet + XGBoost + TFT + PatchTST + Chronos,5,33.29,16.17
+Prophet + XGBoost + TFT + NHITS + PatchTST,5,33.3,15.36
+ETS + Prophet + TFT + PatchTST + Chronos,5,33.31,15.67
+ETS + Prophet + XGBoost + TFT + NBEATS + PatchTST + Chronos,7,33.33,13.39
+ARIMA + Prophet + XGBoost + TFT + NBEATS + PatchTST,6,33.35,14.33
+ARIMA + Prophet + TFT + PatchTST,4,33.36,15.64
+ETS + Prophet + TFT + NHITS + PatchTST + Chronos,6,33.36,15.0
+ARIMA + Prophet + XGBoost + TFT + NBEATS + PatchTST + Chronos,7,33.36,13.18
+ETS + Prophet + TFT + NHITS + PatchTST,5,33.36,17.07
+Prophet + XGBoost + TFT + NBEATS + PatchTST + Chronos,6,33.37,14.89
+ETS + XGBoost + TFT + PatchTST,4,33.37,16.03
+ARIMA + ETS + Prophet + TFT + PatchTST,5,33.38,14.92
+ARIMA + ETS + Prophet + XGBoost + TFT + NHITS + PatchTST + Chronos,8,33.38,14.15
+Prophet + XGBoost + TFT + NBEATS + PatchTST,5,33.38,15.05
+ETS + TFT + PatchTST,3,33.4,15.15
+ARIMA + ETS + Prophet + XGBoost + TFT + NHITS + PatchTST,7,33.4,14.76
+ARIMA + ETS + Prophet + XGBoost + TFT + PatchTST,6,33.41,15.47
+ARIMA + ETS + Prophet + TFT + PatchTST + Chronos,6,33.41,14.32
+ARIMA + ETS + Prophet + TFT + NHITS + PatchTST + Chronos,7,33.42,14.55
+ARIMA + ETS + Prophet + XGBoost + TFT + PatchTST + Chronos,7,33.43,15.62
+ETS + Prophet + TFT + NBEATS + PatchTST,5,33.43,15.95
+ARIMA + Prophet + TFT + PatchTST + Chronos,5,33.44,15.13
+ETS + Prophet + TFT + NBEATS + PatchTST + Chronos,6,33.45,14.04
+Prophet + XGBoost + NHITS + PatchTST + Chronos,5,33.47,14.96
+ARIMA + ETS + Prophet + TFT + NHITS + PatchTST,6,33.47,14.63
+ARIMA + Prophet + TFT + NHITS + PatchTST + Chronos,6,33.49,15.04
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + PatchTST + Chronos,8,33.49,13.98
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + PatchTST,7,33.51,14.2
+Prophet + XGBoost + PatchTST + Chronos,4,33.52,15.73
+ETS + Prophet + PatchTST + Chronos,4,33.53,15.04
+ARIMA + ETS + Prophet + TFT + NBEATS + PatchTST + Chronos,7,33.54,13.34
+ARIMA + Prophet + TFT + NHITS + PatchTST,5,33.55,16.72
+ETS + Prophet + XGBoost + NHITS + PatchTST + Chronos,6,33.56,14.18
+ETS + Prophet + XGBoost + PatchTST + Chronos,5,33.56,15.55
+ARIMA + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,8,33.56,13.76
+ARIMA + ETS + Prophet + TFT + NBEATS + PatchTST,6,33.57,14.23
+ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,8,33.57,13.87
+ARIMA + Prophet + TFT + NBEATS + PatchTST + Chronos,6,33.59,14.28
+ARIMA + XGBoost + TFT + PatchTST,4,33.59,15.49
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,9,33.6,13.92
+Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,7,33.61,14.14
+ETS + XGBoost + TFT + NHITS + PatchTST,5,33.61,15.74
+ARIMA + Prophet + TFT + NBEATS + PatchTST,5,33.61,16.18
+ETS + XGBoost + TFT + PatchTST + Chronos,5,33.61,15.33
+Prophet + XGBoost + NBEATS + PatchTST + Chronos,5,33.64,14.73
+ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST,7,33.65,14.28
+ETS + XGBoost + TFT + NHITS + PatchTST + Chronos,6,33.67,14.86
+ETS + TFT + PatchTST + Chronos,4,33.68,15.16
+ETS + Prophet + NHITS + PatchTST + Chronos,5,33.68,15.86
+ARIMA + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST,7,33.69,14.16
+ARIMA + ETS + TFT + PatchTST,4,33.69,14.46
+ETS + Prophet + TFT + NBEATS + NHITS + PatchTST + Chronos,7,33.7,14.06
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST,8,33.71,13.87
+ARIMA + Prophet + XGBoost + NHITS + PatchTST + Chronos,6,33.71,14.38
+ETS + XGBoost + TFT + NBEATS + PatchTST,5,33.71,15.55
+ARIMA + XGBoost + TFT + NHITS + PatchTST,5,33.72,15.26
+ARIMA + ETS + Prophet + TFT + NBEATS + NHITS + PatchTST + Chronos,8,33.73,13.99
+ETS + Prophet + XGBoost + NBEATS + PatchTST + Chronos,6,33.73,14.26
+ARIMA + XGBoost + TFT + NHITS + PatchTST + Chronos,6,33.73,14.9
+ARIMA + ETS + XGBoost + TFT + NHITS + PatchTST + Chronos,7,33.74,14.67
+ARIMA + ETS + XGBoost + TFT + PatchTST,5,33.74,15.45
+Prophet + TFT + NHITS + PatchTST + Chronos,5,33.75,15.55
+Prophet + PatchTST + Chronos,3,33.76,16.17
+ARIMA + XGBoost + TFT + PatchTST + Chronos,5,33.76,15.15
+ARIMA + ETS + XGBoost + TFT + NHITS + PatchTST,6,33.76,15.28
+ARIMA + Prophet + XGBoost + PatchTST + Chronos,5,33.76,15.85
+ETS + XGBoost + TFT + NBEATS + PatchTST + Chronos,6,33.76,14.55
+Prophet + TFT + NBEATS + PatchTST + Chronos,5,33.78,14.97
+Prophet + XGBoost + TFT + NBEATS + NHITS + PatchTST,6,33.79,15.45
+ARIMA + ETS + TFT + PatchTST + Chronos,5,33.8,13.88
+Prophet + NHITS + PatchTST + Chronos,4,33.8,15.9
+ETS + TFT + NHITS + PatchTST,4,33.8,15.71
+ETS + Prophet + NBEATS + PatchTST + Chronos,5,33.81,15.71
+ARIMA + Prophet + PatchTST + Chronos,4,33.81,15.46
+ARIMA + Prophet + TFT + NBEATS + NHITS + PatchTST + Chronos,7,33.81,14.32
+ARIMA + XGBoost + TFT + NBEATS + PatchTST + Chronos,6,33.82,14.6
+ETS + TFT + NHITS + PatchTST + Chronos,5,33.82,14.84
+ARIMA + XGBoost + TFT + NBEATS + PatchTST,5,33.82,15.25
+ETS + TFT + NBEATS + PatchTST,4,33.83,14.91
+ETS + Prophet + TFT + NBEATS + NHITS + PatchTST,6,33.84,16.87
+ARIMA + ETS + Prophet + TFT + NBEATS + NHITS + PatchTST,7,33.85,14.14
+ARIMA + ETS + XGBoost + TFT + PatchTST + Chronos,6,33.85,14.98
+ARIMA + ETS + TFT + NHITS + PatchTST + Chronos,6,33.85,14.22
+ETS + Prophet + XGBoost + TFT + NHITS + Chronos,6,33.85,14.46
+Prophet + TFT + PatchTST + Chronos,4,33.85,16.45
+XGBoost + TFT + NHITS + PatchTST + Chronos,5,33.86,15.45
+ARIMA + Prophet + XGBoost + TFT + NHITS + Chronos,6,33.87,13.69
+ARIMA + TFT + PatchTST,3,33.87,14.83
+ARIMA + Prophet + XGBoost + NBEATS + PatchTST + Chronos,6,33.87,14.43
+ARIMA + ETS + XGBoost + TFT + NBEATS + PatchTST + Chronos,7,33.88,14.56
+ARIMA + ETS + Prophet + XGBoost + NHITS + PatchTST + Chronos,7,33.88,13.99
+ETS + Prophet + XGBoost + TFT + NHITS,5,33.89,14.86
+ETS + Prophet + XGBoost + NHITS + PatchTST,5,33.89,15.27
+ARIMA + ETS + TFT + NHITS + PatchTST,5,33.89,14.75
+XGBoost + TFT + NHITS + PatchTST,4,33.9,16.18
+ARIMA + ETS + XGBoost + TFT + NBEATS + PatchTST,6,33.9,15.02
+ARIMA + TFT + PatchTST + Chronos,4,33.91,15.37
+XGBoost + TFT + PatchTST,3,33.91,16.02
+ETS + TFT + NBEATS + PatchTST + Chronos,5,33.91,14.9
+ARIMA + Prophet + NHITS + PatchTST + Chronos,5,33.92,15.94
+XGBoost + TFT + NBEATS + PatchTST + Chronos,5,33.93,15.33
+XGBoost + TFT + PatchTST + Chronos,4,33.93,16.06
+ARIMA + ETS + TFT + NBEATS + PatchTST + Chronos,6,33.93,13.89
+ARIMA + ETS + TFT + NBEATS + PatchTST,5,33.96,14.33
+XGBoost + TFT + NBEATS + PatchTST,4,33.96,15.12
+ARIMA + Prophet + XGBoost + TFT + NHITS,5,33.96,14.24
+ETS + Prophet + XGBoost + NBEATS + NHITS + PatchTST + Chronos,7,33.97,14.31
+Prophet + NBEATS + PatchTST + Chronos,4,33.97,14.99
+ETS + Prophet + XGBoost + PatchTST,4,33.97,16.09
+ARIMA + ETS + Prophet + XGBoost + TFT + NHITS + Chronos,7,33.97,14.54
+ARIMA + ETS + Prophet + NHITS + PatchTST + Chronos,6,33.98,15.24
+ETS + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,7,33.99,14.68
+ARIMA + ETS + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,8,33.99,14.19
+ARIMA + Prophet + TFT + NBEATS + NHITS + PatchTST,6,33.99,16.86
+ARIMA + ETS + Prophet + PatchTST + Chronos,5,34.0,16.47
+ARIMA + TFT + NHITS + PatchTST + Chronos,5,34.01,15.19
+ARIMA + Prophet + XGBoost + TFT + NBEATS + NHITS + Chronos,7,34.01,13.69
+Prophet + TFT + NHITS + PatchTST,4,34.01,17.07
+Prophet + TFT + NBEATS + NHITS + PatchTST + Chronos,6,34.01,14.63
+Prophet + TFT + NBEATS + PatchTST,4,34.02,17.62
+ARIMA + XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,7,34.02,14.28
+Prophet + XGBoost + NBEATS + NHITS + PatchTST + Chronos,6,34.03,14.42
+ETS + Prophet + XGBoost + TFT + NBEATS + Chronos,6,34.03,14.61
+ARIMA + ETS + Prophet + XGBoost + NBEATS + PatchTST + Chronos,7,34.04,14.5
+ARIMA + ETS + Prophet + XGBoost + TFT + NHITS,6,34.04,14.2
+ARIMA + ETS + Prophet + XGBoost + PatchTST + Chronos,6,34.04,15.54
+ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + Chronos,7,34.05,13.87
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + NHITS + Chronos,8,34.05,14.16
+ARIMA + Prophet + XGBoost + TFT + NBEATS + Chronos,6,34.05,14.39
+ETS + Prophet + TFT + NHITS + Chronos,5,34.06,14.95
+ARIMA + Prophet + NBEATS + PatchTST + Chronos,5,34.06,15.95
+ARIMA + ETS + Prophet + TFT + NHITS + Chronos,6,34.07,13.98
+ETS + Prophet + PatchTST,3,34.07,15.37
+ARIMA + Prophet + XGBoost + NBEATS + NHITS + PatchTST + Chronos,7,34.07,14.44
+XGBoost + PatchTST + Chronos,3,34.08,15.33
+ETS + Prophet + XGBoost + TFT + NBEATS,5,34.1,14.72
+Prophet + XGBoost + TFT + NHITS + Chronos,5,34.1,15.83
+ETS + PatchTST + Chronos,3,34.1,15.36
+Prophet + XGBoost + NHITS + PatchTST,4,34.11,16.15
+ARIMA + TFT + NBEATS + PatchTST + Chronos,5,34.11,15.09
+ETS + Prophet + XGBoost + NBEATS + PatchTST,5,34.12,14.72
+ARIMA + TFT + NHITS + PatchTST,4,34.13,15.39
+ETS + XGBoost + TFT + NBEATS + NHITS + PatchTST,6,34.13,15.69
+ARIMA + ETS + Prophet + NBEATS + PatchTST + Chronos,6,34.13,15.22
+ARIMA + ETS + Prophet + XGBoost + NBEATS + NHITS + PatchTST + Chronos,8,34.14,14.29
+ARIMA + ETS + XGBoost + TFT + NBEATS + NHITS + PatchTST,7,34.14,15.15
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + Chronos,7,34.15,15.02
+ARIMA + Prophet + XGBoost + TFT + NBEATS,5,34.15,14.53
+ARIMA + ETS + TFT + NBEATS + NHITS + PatchTST + Chronos,7,34.16,13.66
+ARIMA + TFT + NBEATS + PatchTST,4,34.16,14.53
+ETS + Prophet + TFT + NHITS,4,34.17,16.59
+XGBoost + NHITS + PatchTST + Chronos,4,34.17,15.26
+ARIMA + Prophet + TFT + NHITS + Chronos,5,34.17,15.32
+XGBoost + TFT + NBEATS + NHITS + PatchTST + Chronos,6,34.18,15.52
+ARIMA + XGBoost + TFT + NBEATS + NHITS + PatchTST,6,34.19,15.28
+ETS + Prophet + XGBoost + TFT + NBEATS + NHITS,6,34.21,13.73
+ARIMA + ETS + Prophet + TFT + NBEATS + NHITS + Chronos,7,34.21,14.27
+ARIMA + Prophet + XGBoost + NHITS + PatchTST,5,34.22,15.42
+ETS + Prophet + NBEATS + NHITS + PatchTST + Chronos,6,34.22,16.23
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS + NHITS,7,34.22,13.72
+ETS + XGBoost + NHITS + PatchTST + Chronos,5,34.22,15.24
+ETS + TFT + NBEATS + NHITS + PatchTST + Chronos,6,34.22,14.94
+ARIMA + ETS + Prophet + XGBoost + TFT + NBEATS,6,34.23,14.94
+ETS + Prophet + TFT + NBEATS + Chronos,5,34.23,14.9
+ARIMA + ETS + Prophet + TFT + NBEATS + Chronos,6,34.24,14.22
+ARIMA + Prophet + XGBoost + TFT + NBEATS + NHITS,6,34.24,13.57
+ARIMA + ETS + Prophet + TFT + NHITS,5,34.24,14.4
+ETS + Prophet + XGBoost + TFT + Chronos,5,34.24,16.7
+Prophet + XGBoost + TFT + NBEATS + NHITS + Chronos,6,34.24,14.8
+Prophet + XGBoost + TFT + NBEATS + Chronos,5,34.25,15.51
+ETS + XGBoost + PatchTST + Chronos,4,34.26,15.8
+ETS + Prophet + TFT + NBEATS + NHITS + Chronos,6,34.27,14.81
+ARIMA + XGBoost + NHITS + PatchTST + Chronos,5,34.28,14.95
+ETS + Prophet + NHITS + PatchTST,4,34.29,15.9
+ARIMA + ETS + Prophet + XGBoost + NHITS + PatchTST,6,34.31,14.89
+ARIMA + ETS + Prophet + NBEATS + NHITS + PatchTST + Chronos,7,34.31,15.0
+ETS + NHITS + PatchTST + Chronos,4,34.32,15.78
+ETS + Prophet + TFT + NBEATS,4,34.33,15.47
+ARIMA + ETS + Prophet + XGBoost + TFT + Chronos,6,34.34,15.44
+ARIMA + ETS + TFT + NBEATS + NHITS + PatchTST,6,34.35,15.35
+ARIMA + Prophet + TFT + NBEATS + Chronos,5,34.35,14.74
+ARIMA + TFT + NBEATS + NHITS + PatchTST + Chronos,6,34.35,15.02
+ARIMA + Prophet + XGBoost + TFT + Chronos,5,34.36,16.46
+ETS + Prophet + XGBoost + NHITS + Chronos,5,34.37,14.65
+Prophet + XGBoost + NBEATS + PatchTST,4,34.38,14.87
+Prophet + XGBoost + TFT + NHITS,4,34.38,16.61
+ARIMA + Prophet + TFT + NHITS,4,34.38,16.04
+ARIMA + Prophet + TFT + NBEATS + NHITS + Chronos,6,34.38,15.14
+XGBoost + NBEATS + PatchTST + Chronos,4,34.39,14.79
+ARIMA + XGBoost + PatchTST + Chronos,4,34.4,16.06
+Prophet + TFT + PatchTST,3,34.4,17.57
+Prophet + TFT + NBEATS + NHITS + PatchTST,5,34.4,17.34
+ARIMA + ETS + Prophet + TFT + NBEATS,5,34.41,14.26
+ARIMA + Prophet + NBEATS + NHITS + PatchTST + Chronos,6,34.41,16.18
+ETS + XGBoost + NBEATS + PatchTST + Chronos,5,34.41,15.11
+Prophet + XGBoost + PatchTST,3,34.43,17.41
+ARIMA + ETS + Prophet + TFT + Chronos,5,34.44,15.39
+ARIMA + ETS + Prophet + TFT + NBEATS + NHITS,6,34.44,14.72
+ARIMA + ETS + XGBoost + NHITS + PatchTST + Chronos,6,34.44,15.06
+ARIMA + Prophet + XGBoost + NBEATS + PatchTST,5,34.45,14.92
+XGBoost + TFT + NBEATS + NHITS + PatchTST,5,34.45,15.12
+ARIMA + Prophet + XGBoost + PatchTST,4,34.46,16.59
+ETS + Prophet + NBEATS + PatchTST,4,34.47,14.65
+ARIMA + XGBoost + NBEATS + PatchTST + Chronos,5,34.47,14.88
+ARIMA + ETS + Prophet + XGBoost + PatchTST,5,34.48,16.69
+ARIMA + Prophet + XGBoost + NHITS + Chronos,5,34.48,15.17
+ETS + Prophet + XGBoost + NBEATS + NHITS + PatchTST,6,34.48,14.66
+ETS + TFT + NBEATS + NHITS + PatchTST,5,34.48,15.39
+ETS + NBEATS + PatchTST + Chronos,4,34.49,15.67
+ARIMA + ETS + XGBoost + TFT + NHITS + Chronos,6,34.49,15.28
+Prophet + NBEATS + NHITS + PatchTST + Chronos,5,34.5,15.45
+ETS + Prophet + XGBoost + TFT,4,34.5,16.65
+TFT + NHITS + PatchTST + Chronos,4,34.51,15.4
+ARIMA + Prophet + TFT + NBEATS,4,34.51,16.3
+ETS + XGBoost + TFT + NHITS + Chronos,5,34.51,15.03
+Prophet + XGBoost + NHITS + Chronos,4,34.52,15.29
+ETS + Prophet + NHITS + Chronos,4,34.52,15.43
+ARIMA + XGBoost + TFT + NHITS + Chronos,5,34.52,14.88
+ETS + Prophet + TFT + Chronos,4,34.53,16.0
+ARIMA + ETS + Prophet + XGBoost + NBEATS + PatchTST,6,34.54,15.46
+Prophet + XGBoost + TFT + NBEATS,4,34.54,15.7
+ARIMA + ETS + Prophet + XGBoost + TFT,5,34.55,15.89
+ARIMA + ETS + TFT + NHITS + Chronos,5,34.56,14.64
+ARIMA + PatchTST + Chronos,3,34.56,15.75
+ARIMA + ETS + XGBoost + TFT + NBEATS + NHITS + Chronos,7,34.57,14.58
+ARIMA + ETS + Prophet + NHITS + PatchTST,5,34.59,16.11
+ETS + Prophet + TFT + NBEATS + NHITS,5,34.59,16.18
+ARIMA + ETS + NHITS + PatchTST + Chronos,5,34.6,15.29
+TFT + NBEATS + PatchTST + Chronos,4,34.61,14.84
+Prophet + XGBoost + TFT + NBEATS + NHITS,5,34.62,14.64
+ETS + XGBoost + PatchTST,3,34.62,16.63
+ETS + TFT + NHITS + Chronos,4,34.62,15.52
+ETS + XGBoost + NBEATS + NHITS + PatchTST + Chronos,6,34.62,15.2
+ARIMA + XGBoost + TFT + NHITS,4,34.63,14.4
+ARIMA + TFT + NBEATS + NHITS + PatchTST,5,34.63,15.12
+ARIMA + ETS + XGBoost + NBEATS + PatchTST + Chronos,6,34.63,14.97
+ETS + Prophet + XGBoost + NBEATS + NHITS + Chronos,6,34.63,14.68
+ETS + XGBoost + TFT + NHITS,4,34.64,15.34
+PatchTST + Chronos,2,34.64,16.68
+ARIMA + ETS + XGBoost + TFT + NHITS,5,34.64,15.01
+ARIMA + ETS + Prophet + XGBoost + NBEATS + NHITS + PatchTST,7,34.65,14.41
+ARIMA + ETS + XGBoost + PatchTST + Chronos,5,34.65,15.85
+ARIMA + ETS + Prophet + XGBoost + NHITS + Chronos,6,34.66,15.03
+ARIMA + NHITS + PatchTST + Chronos,4,34.66,15.87
+ETS + TFT + NHITS,3,34.66,15.51
+ARIMA + ETS + XGBoost + NBEATS + NHITS + PatchTST + Chronos,7,34.66,14.99
+ETS + PatchTST,2,34.67,17.35
+ARIMA + ETS + XGBoost + TFT + NBEATS + Chronos,6,34.67,15.53
+ARIMA + XGBoost + TFT + NBEATS + NHITS + Chronos,6,34.68,14.64
+ARIMA + ETS + Prophet + PatchTST,4,34.68,16.44
+ARIMA + Prophet + XGBoost + TFT,4,34.69,16.28
+ETS + XGBoost + NHITS + PatchTST,4,34.69,15.73
+ETS + XGBoost + TFT + NBEATS + Chronos,5,34.69,15.46
+ARIMA + Prophet + XGBoost + NBEATS + NHITS + PatchTST,6,34.7,15.1
+ARIMA + ETS + Prophet + TFT,4,34.7,16.05
+ARIMA + XGBoost + NBEATS + NHITS + PatchTST + Chronos,6,34.7,14.65
+ARIMA + Prophet + TFT + NBEATS + NHITS,5,34.71,17.09
+ETS + XGBoost + TFT + NBEATS + NHITS + Chronos,6,34.71,14.51
+ARIMA + Prophet + TFT + Chronos,4,34.72,16.02
+ARIMA + ETS + TFT + NHITS,4,34.73,15.11
+ARIMA + XGBoost + TFT + NBEATS + Chronos,5,34.73,15.37
+ARIMA + ETS + PatchTST + Chronos,4,34.73,16.07
+ARIMA + ETS + NBEATS + PatchTST + Chronos,5,34.74,15.24
+ETS + Prophet + XGBoost + NBEATS + Chronos,5,34.74,15.41
+TFT + PatchTST + Chronos,3,34.75,15.97
+ARIMA + Prophet + NHITS + PatchTST,4,34.75,15.77
+Prophet + TFT + NBEATS + NHITS + Chronos,5,34.76,15.68
+ARIMA + Prophet + XGBoost + NBEATS + NHITS + Chronos,6,34.76,14.54
+ARIMA + ETS + TFT + NBEATS + Chronos,5,34.76,15.15
+ARIMA + ETS + Prophet + NBEATS + PatchTST,5,34.76,15.0
+ARIMA + ETS + TFT + NBEATS + NHITS + Chronos,6,34.76,14.99
+Prophet + XGBoost + NBEATS + NHITS + PatchTST,5,34.77,15.25
+XGBoost + NBEATS + NHITS + PatchTST + Chronos,5,34.79,14.94
+ARIMA + ETS + Prophet + XGBoost + NBEATS + NHITS + Chronos,7,34.79,14.49
+ETS + TFT + NBEATS + Chronos,4,34.8,15.78
+ARIMA + ETS + Prophet + NHITS + Chronos,5,34.8,16.1
+ARIMA + Prophet + NHITS + Chronos,4,34.81,15.86
+Prophet + TFT + NHITS + Chronos,4,34.81,17.38
+ETS + Prophet + NBEATS + Chronos,4,34.82,15.53
+TFT + NBEATS + NHITS + PatchTST + Chronos,5,34.82,14.69
+Prophet + XGBoost + NBEATS + NHITS + Chronos,5,34.83,15.07
+ETS + Prophet + TFT,3,34.83,16.45
+ARIMA + TFT + NHITS + Chronos,4,34.83,15.52
+ARIMA + NBEATS + PatchTST + Chronos,4,34.83,15.71
+ETS + TFT + NBEATS,3,34.84,14.51
+ARIMA + ETS + XGBoost + TFT + NBEATS,5,34.85,15.61
+ARIMA + Prophet + PatchTST,3,34.85,16.14
+ARIMA + ETS + XGBoost + TFT + NBEATS + NHITS,6,34.86,14.9
+ARIMA + Prophet + XGBoost + NBEATS + Chronos,5,34.87,15.96
+ETS + XGBoost + TFT + NBEATS,4,34.87,15.07
+NHITS + PatchTST + Chronos,3,34.87,16.66
+ARIMA + XGBoost + TFT + NBEATS,4,34.88,14.84
+Prophet + XGBoost + NBEATS + Chronos,4,34.89,15.53
+Prophet + TFT + NBEATS + Chronos,4,34.89,16.12
+ETS + XGBoost + NBEATS + PatchTST,4,34.91,15.91
+ARIMA + ETS + TFT + NBEATS,4,34.92,15.44
+XGBoost + PatchTST,2,34.92,19.36
+TFT + NHITS + PatchTST,3,34.93,17.83
+ARIMA + Prophet + NBEATS + PatchTST,4,34.93,14.91
+ETS + TFT + NBEATS + NHITS + Chronos,5,34.94,16.6
+ARIMA + ETS + XGBoost + TFT + Chronos,5,34.94,17.12
+ETS + Prophet + NBEATS + NHITS + Chronos,5,34.96,15.76
+ETS + XGBoost + TFT + NBEATS + NHITS,5,34.97,15.08
+TFT + NBEATS + PatchTST,3,34.97,16.62
+ETS + NBEATS + NHITS + PatchTST + Chronos,5,34.98,16.17
+ARIMA + ETS + NBEATS + NHITS + PatchTST + Chronos,6,34.98,15.82
+ETS + XGBoost + TFT + Chronos,4,34.98,16.98
+ARIMA + ETS + Prophet + NBEATS + NHITS + PatchTST,6,34.98,15.9
+ARIMA + ETS + Prophet + XGBoost + NBEATS + Chronos,6,34.98,15.45
+ARIMA + XGBoost + TFT + NBEATS + NHITS,5,34.99,14.71
+ARIMA + ETS + XGBoost + NHITS + PatchTST,5,34.99,15.47
+ARIMA + ETS + Prophet + NBEATS + NHITS + Chronos,6,34.99,15.1
+XGBoost + NHITS + PatchTST,3,34.99,18.03
+NBEATS + PatchTST + Chronos,3,34.99,16.82
+Prophet + NHITS + Chronos,3,35.01,16.34
+ETS + Prophet + NBEATS + NHITS + PatchTST,5,35.02,16.15
+ARIMA + TFT + NBEATS + Chronos,4,35.03,15.68
+Prophet + XGBoost + TFT + Chronos,4,35.03,17.54
+ARIMA + ETS + TFT + Chronos,4,35.05,16.49
+ARIMA + XGBoost + NHITS + PatchTST,4,35.07,16.21
+ARIMA + TFT + NBEATS + NHITS + Chronos,5,35.08,15.94
+ETS + TFT,2,35.1,16.61
+XGBoost + TFT + NBEATS + NHITS + Chronos,5,35.1,14.99
+XGBoost + TFT + NHITS + Chronos,4,35.11,15.27
+ARIMA + ETS + Prophet + NBEATS + Chronos,5,35.11,16.53
+ETS + Prophet + Chronos,3,35.12,16.3
+ARIMA + XGBoost + PatchTST,3,35.13,16.65
+ARIMA + Prophet + NBEATS + NHITS + Chronos,5,35.13,15.35
+ARIMA + TFT + NHITS,3,35.14,15.58
+ETS + Prophet + XGBoost + Chronos,4,35.14,17.08
+ARIMA + ETS + TFT + NBEATS + NHITS,5,35.15,15.83
+ETS + TFT + Chronos,3,35.15,16.66
+ARIMA + Prophet + NBEATS + Chronos,4,35.15,15.86
+ETS + XGBoost + TFT,3,35.16,16.1
+ARIMA + ETS + XGBoost + TFT,4,35.19,16.92
+ARIMA + ETS + XGBoost + NBEATS + PatchTST,5,35.19,15.57
+ARIMA + ETS + XGBoost + PatchTST,4,35.19,16.44
+ARIMA + NBEATS + NHITS + PatchTST + Chronos,5,35.19,16.28
+XGBoost + NBEATS + PatchTST,3,35.2,17.03
+ARIMA + XGBoost + TFT + Chronos,4,35.2,16.9
+ETS + NHITS + PatchTST,3,35.22,18.02
+ARIMA + ETS + TFT,3,35.22,18.02
+XGBoost + TFT + NBEATS + Chronos,4,35.23,15.52
+ETS + Prophet + XGBoost + NHITS,4,35.26,15.11
+Prophet + NHITS + PatchTST,3,35.27,17.71
+ETS + XGBoost + NBEATS + NHITS + PatchTST,5,35.28,15.91
+ARIMA + Prophet + TFT,3,35.29,16.29
+ARIMA + XGBoost + NBEATS + PatchTST,4,35.31,16.05
+ARIMA + TFT + NBEATS,3,35.32,15.26
+ARIMA + ETS + Prophet + XGBoost + Chronos,5,35.33,15.36
+ETS + NHITS + Chronos,3,35.34,15.54
+ETS + XGBoost + NHITS + Chronos,4,35.35,15.48
+ARIMA + XGBoost + NHITS + Chronos,4,35.35,14.91
+ARIMA + ETS + XGBoost + NBEATS + NHITS + PatchTST,6,35.35,15.76
+ARIMA + Prophet + NBEATS + NHITS + PatchTST,5,35.37,15.5
+ETS + NBEATS + PatchTST,3,35.38,17.06
+TFT + NBEATS + NHITS + PatchTST,4,35.38,16.92
+Prophet + NBEATS + Chronos,3,35.4,16.31
+ETS + TFT + NBEATS + NHITS,4,35.42,16.42
+Prophet + NBEATS + PatchTST,3,35.42,16.6
+ARIMA + ETS + XGBoost + NHITS + Chronos,5,35.43,15.85
+ARIMA + Prophet + XGBoost + Chronos,4,35.44,16.23
+ARIMA + ETS + Prophet + Chronos,4,35.44,16.13
+ARIMA + ETS + NHITS + PatchTST,4,35.44,16.34
+ETS + Prophet + XGBoost + NBEATS + NHITS,5,35.44,14.32
+ARIMA + ETS + Prophet + XGBoost + NHITS,5,35.47,16.34
+ARIMA + ETS + XGBoost + NBEATS + NHITS + Chronos,6,35.49,14.66
+ARIMA + XGBoost + TFT,3,35.49,16.2
+TFT + PatchTST,2,35.52,18.71
+ETS + XGBoost + NBEATS + NHITS + Chronos,5,35.53,15.02
+NBEATS + NHITS + PatchTST + Chronos,4,35.54,16.61
+Prophet + NBEATS + NHITS + Chronos,4,35.54,16.24
+ARIMA + XGBoost + NBEATS + NHITS + Chronos,5,35.54,14.54
+ARIMA + ETS + PatchTST,3,35.55,16.28
+XGBoost + TFT + NHITS,3,35.57,15.82
+ARIMA + XGBoost + NBEATS + NHITS + PatchTST,5,35.57,16.08
+ARIMA + ETS + Prophet + XGBoost + NBEATS + NHITS,6,35.58,14.52
+ARIMA + TFT + Chronos,3,35.59,16.81
+XGBoost + NHITS + Chronos,3,35.59,15.15
+ARIMA + ETS + NBEATS + PatchTST,4,35.6,16.61
+ARIMA + TFT + NBEATS + NHITS,4,35.62,15.87
+Prophet + TFT + NBEATS + NHITS,4,35.64,18.56
+ARIMA + ETS + NHITS + Chronos,4,35.64,15.81
+ARIMA + Prophet + XGBoost + NHITS,4,35.65,15.61
+ETS + XGBoost + NBEATS + Chronos,4,35.68,16.01
+XGBoost + TFT + NBEATS,3,35.69,15.25
+ETS + NBEATS + Chronos,3,35.72,16.77
+ARIMA + NHITS + Chronos,3,35.74,16.15
+ARIMA + XGBoost + NBEATS + Chronos,4,35.74,16.45
+XGBoost + TFT + NBEATS + NHITS,4,35.74,14.83
+ETS + Prophet + XGBoost + NBEATS,4,35.74,15.31
+ARIMA + ETS + XGBoost + NBEATS + Chronos,5,35.75,16.57
+ARIMA + Prophet + XGBoost + NBEATS + NHITS,5,35.75,14.74
+ARIMA + Prophet + Chronos,3,35.76,15.88
+Prophet + TFT + NHITS,3,35.76,17.71
+XGBoost + NBEATS + NHITS + PatchTST,4,35.78,16.8
+Prophet + PatchTST,2,35.79,17.16
+ARIMA + ETS + NBEATS + NHITS + Chronos,5,35.83,16.93
+ARIMA + TFT,2,35.84,15.4
+ETS + Prophet + NHITS,3,35.87,15.82
+ARIMA + ETS + Prophet + XGBoost + NBEATS,5,35.88,16.15
+Prophet + TFT + NBEATS,3,35.89,17.6
+ARIMA + ETS + NBEATS + NHITS + PatchTST,5,35.92,15.89
+ARIMA + ETS + NBEATS + Chronos,4,35.94,16.56
+ARIMA + NHITS + PatchTST,3,35.95,16.7
+ETS + NBEATS + NHITS + Chronos,4,35.95,16.88
+ARIMA + PatchTST,2,35.96,16.23
+XGBoost + NBEATS + NHITS + Chronos,4,35.96,15.19
+Prophet + NBEATS + NHITS + PatchTST,4,35.96,17.69
+Prophet + XGBoost + TFT,3,35.98,18.64
+XGBoost + NBEATS + Chronos,3,35.98,16.06
+TFT + NBEATS + NHITS + Chronos,4,35.99,17.71
+Prophet + XGBoost + Chronos,3,35.99,17.39
+ARIMA + ETS + Prophet + NHITS,4,35.99,15.02
+ETS + NBEATS + NHITS + PatchTST,4,36.02,16.99
+TFT + NHITS + Chronos,3,36.04,17.21
+ARIMA + ETS + Prophet + NBEATS + NHITS,5,36.06,15.1
+ARIMA + NBEATS + PatchTST,3,36.12,16.32
+ARIMA + NBEATS + Chronos,3,36.14,16.78
+Prophet + XGBoost + NHITS,3,36.19,16.17
+ARIMA + NBEATS + NHITS + Chronos,4,36.19,16.93
+ARIMA + Prophet + XGBoost + NBEATS,4,36.2,17.13
+TFT + NBEATS + Chronos,3,36.26,17.8
+NHITS + Chronos,2,36.26,17.95
+ETS + Prophet + NBEATS,3,36.28,15.38
+ARIMA + ETS + XGBoost + Chronos,4,36.28,17.24
+Prophet + XGBoost + NBEATS + NHITS,4,36.29,15.07
+ETS + XGBoost + Chronos,3,36.29,18.01
+ARIMA + ETS + Prophet + NBEATS,4,36.3,16.18
+ETS + Prophet + NBEATS + NHITS,4,36.32,15.95
+ETS + Chronos,2,36.35,18.94
+Prophet + TFT + Chronos,3,36.36,17.31
+ETS + XGBoost + NHITS,3,36.42,15.59
+XGBoost + TFT + Chronos,3,36.46,17.08
+ARIMA + XGBoost + Chronos,3,36.48,17.2
+ARIMA + NBEATS + NHITS + PatchTST,4,36.54,16.66
+ARIMA + ETS + XGBoost + NHITS,4,36.56,15.93
+ARIMA + ETS + XGBoost + NBEATS + NHITS,5,36.59,16.02
+ARIMA + ETS + Prophet + XGBoost,4,36.63,17.67
+NBEATS + Chronos,2,36.66,18.92
+ARIMA + Prophet + NHITS,3,36.68,16.04
+ARIMA + ETS + Chronos,3,36.72,17.11
+ARIMA + Prophet + NBEATS + NHITS,4,36.73,15.55
+ETS + XGBoost + NBEATS + NHITS,4,36.75,16.6
+Prophet + XGBoost + NBEATS,3,36.75,15.86
+NHITS + PatchTST,2,36.83,18.73
+NBEATS + PatchTST,2,36.91,17.95
+ETS + Prophet + XGBoost,3,36.92,17.2
+ARIMA + XGBoost + NHITS,3,36.93,16.15
+ETS + XGBoost + NBEATS,3,36.94,17.39
+ARIMA + ETS + XGBoost + NBEATS,4,36.97,16.54
+ARIMA + Chronos,2,37.04,17.7
+ARIMA + Prophet + NBEATS,3,37.1,15.75
+NBEATS + NHITS + Chronos,3,37.12,18.82
+ARIMA + XGBoost + NBEATS + NHITS,4,37.12,16.73
+Prophet + Chronos,2,37.19,17.73
+ETS + NHITS,2,37.2,17.54
+ARIMA + ETS + NHITS,3,37.27,16.33
+TFT + NBEATS + NHITS,3,37.33,19.47
+ARIMA + ETS + NBEATS + NHITS,4,37.38,16.74
+ARIMA + ETS + Prophet,3,37.46,16.82
+TFT + NHITS,2,37.47,21.13
+ARIMA + XGBoost + NBEATS,3,37.53,17.64
+NBEATS + NHITS + PatchTST,3,37.56,19.04
+XGBoost + Chronos,2,37.65,22.42
+ARIMA + ETS + NBEATS,3,37.65,17.02
+ETS + NBEATS,2,37.67,16.96
+TFT + NBEATS,2,37.73,20.62
+ARIMA + Prophet + XGBoost,3,37.75,16.53
+XGBoost + NHITS,2,37.89,18.56
+ETS + NBEATS + NHITS,3,37.94,17.61
+ETS + Prophet,2,37.95,16.76
+ARIMA + ETS + XGBoost,3,38.0,18.58
+XGBoost + TFT,2,38.05,20.53
+XGBoost + NBEATS + NHITS,3,38.19,17.39
+Prophet + NBEATS + NHITS,3,38.37,17.41
+ETS + XGBoost,2,38.47,19.96
+ARIMA + NHITS,2,38.49,17.56
+ARIMA + NBEATS + NHITS,3,38.68,17.58
+XGBoost + NBEATS,2,38.73,18.02
+TFT + Chronos,2,38.9,20.75
+ARIMA + NBEATS,2,39.11,17.44
+ARIMA + XGBoost,2,39.32,20.09
+Prophet + NHITS,2,39.36,17.45
+ARIMA + ETS,2,39.46,18.39
+Prophet + NBEATS,2,39.47,16.79
+Prophet + TFT,2,39.91,20.82
+ARIMA + Prophet,2,40.1,18.06
+Prophet + XGBoost,2,41.56,18.76
+NBEATS + NHITS,2,42.0,27.43
