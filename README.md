@@ -79,7 +79,7 @@ wbgapi >= 1.0
 ## Installation
 
 ```bash
-git clone https://github.com/[username]/gbd-forecasting.git
+git clone https://github.com/hayden-farquhar/GBD-Forecasting.git
 cd gbd-forecasting
 python -m venv .venv
 source .venv/bin/activate
