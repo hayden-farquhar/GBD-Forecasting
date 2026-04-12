@@ -43,12 +43,9 @@ This repository contains the complete analysis pipeline for comparing nine forec
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   └── 02_model_training.ipynb
-├── outputs/
-│   ├── figures/                   # All manuscript figures
-│   └── tables/                    # All supplementary tables (CSV)
-└── manuscript/
-    ├── manuscript.md
-    └── supplementary_materials.md
+└── outputs/
+    ├── figures/                   # All figures
+    └── tables/                    # All results tables (CSV)
 ```
 
 ## Data sources
