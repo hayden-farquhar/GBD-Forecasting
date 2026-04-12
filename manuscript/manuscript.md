@@ -76,7 +76,7 @@ Percentage deviations from a 2015-2019 linear trend extrapolation quantified dis
 
 ### Software
 
-Python 3.12 with statsmodels 0.14, XGBoost 2.0, Prophet 1.3, pytorch-forecasting 1.7, neuralforecast 3.0, chronos-forecasting 2.2, PyTorch 2.2 [22,24-27,32,33]. Code available at [repository URL to be added].
+Python 3.12 with statsmodels 0.14, XGBoost 2.0, Prophet 1.3, pytorch-forecasting 1.7, neuralforecast 3.0, chronos-forecasting 2.2, PyTorch 2.2 [22,24-27,32,33]. Code available at https://doi.org/10.5281/zenodo.19528301.
 
 ### AI disclosure
 
@@ -275,7 +275,7 @@ Series length (34 annual observations) limits deep learning advantage. Future co
 
 ## Data availability statement
 
-GBD 2023 data are publicly available from https://vizhub.healthdata.org/gbd-results/. World Bank data from https://data.worldbank.org/. Analysis code and processed datasets will be available at [repository URL].
+GBD 2023 data are publicly available from https://vizhub.healthdata.org/gbd-results/. World Bank data from https://data.worldbank.org/. Analysis code and processed datasets are available at https://doi.org/10.5281/zenodo.19528301.
 
 ## Funding
 

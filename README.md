@@ -1,5 +1,7 @@
 # Foundation models, deep learning, and statistical methods for disease burden forecasting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19528301.svg)](https://doi.org/10.5281/zenodo.19528301)
+
 Code and data for the paper:
 
 > Farquhar H. Foundation models, deep learning, and statistical methods for disease burden forecasting: a 10-model comparison using GBD 2023 data. 2026.
