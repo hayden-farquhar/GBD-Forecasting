@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "GBD-Forecasting"
+authors:
+  - family-names: Farquhar
+    given-names: Hayden
+    orcid: "https://orcid.org/0009-0002-6226-440X"
+    affiliation: "Independent Researcher"
